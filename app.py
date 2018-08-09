@@ -49,7 +49,7 @@ def get_message(message):
     if 'test' in message:
         text = 'Hello'
     elif '안녕' in message:
-        text = '나는 '
+        text = '나는 ziya'
     else:
         text = 'ff'
     #sample_responses = ["You are stunning!", "We're proud of you.", "Keep on being you!", "We're greatful to know you :)"]
